@@ -13,8 +13,3 @@ A simple Python game with two modes:
 - Python 3.x
 - tkinter (usually included with Python)
 
- How to Run
-1. Clone/download this repository
-2. Run the game:
-   ```bash
-   python number_guesser.py
